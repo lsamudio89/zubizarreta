@@ -1,0 +1,903 @@
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:38:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[24-Oct-2017 16:39:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[06-Mar-2018 20:45:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fopen(/tmp/filemanager.log): failed to open stream: Permission denied in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 31
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 32
+[28-Jun-2018 02:05:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/namandu/public_html/jdm/fileman/connectors/php/application/Logger.php on line 33

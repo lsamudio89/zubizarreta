@@ -1,0 +1,116 @@
+2019-03-29 11:17:59
+Query: Error en la conexion
+Error: Access denied for user 'namandu_jdm'@'localhost' (using password: YES)
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT subtitulo_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT logo FROM configuracion
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: Error en la conexion
+Error: Access denied for user 'namandu_jdm'@'localhost' (using password: YES)
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT * from usuarios where md5(id_usuario)='c4ca4238a0b923820dcc509a6f75849b'
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT * FROM sucursales l INNER JOIN usuarios u ON u.id_sucursal=l.id_sucursal AND md5(u.id_usuario)='c4ca4238a0b923820dcc509a6f75849b'
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT titulo from menus where url like '%inicio.php'
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: select us.rol, rm.id_menu, um.menu, um.submenu, um.url, um.orden, us.nombre_usuario 
+		from usuarios us 
+		inner join roles_menu rm on us.rol = rm.id_rol 
+		inner join menus um on um.id_menu = rm.id_menu where um.estado = 1 and md5(us.id_usuario) = 'c4ca4238a0b923820dcc509a6f75849b' order by orden
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT titulo from menus where url like '%inicio.php'
+Error: 
+---------------------------------------------------
+2019-03-29 11:17:59
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-04-15 16:13:45
+Query: SELECT * FROM factura_detalle 
+	left join productos on factura_detalle.id_producto = producto.id_producto
+	WHERE id_factura='20'
+Error: Unknown column 'producto.id_producto' in 'on clause'
+---------------------------------------------------
+2019-04-16 14:53:26
+Query: Error en la conexion
+Error: Access denied for user 'namandu'@'localhost' (using password: YES)
+---------------------------------------------------
+2019-04-16 14:53:26
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-04-16 14:53:26
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-04-16 14:53:26
+Query: SELECT subtitulo_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-04-16 14:53:26
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------
+2019-04-16 14:53:26
+Query: SELECT logo FROM configuracion
+Error: 
+---------------------------------------------------
+2019-04-16 14:58:40
+Query: Error en la conexion
+Error: Access denied for user 'namandu'@'localhost' (using password: YES)
+---------------------------------------------------
+2019-04-16 14:58:40
+Query: SELECT * from usuarios where md5(id_usuario)='c4ca4238a0b923820dcc509a6f75849b'
+Error: 
+---------------------------------------------------
+2019-04-16 14:58:40
+Query: SELECT * FROM sucursales l INNER JOIN usuarios u ON u.id_sucursal=l.id_sucursal AND md5(u.id_usuario)='c4ca4238a0b923820dcc509a6f75849b'
+Error: 
+---------------------------------------------------
+2019-04-16 14:58:40
+Query: SELECT titulo from menus where url like '%inicio.php'
+Error: 
+---------------------------------------------------
+2019-04-16 14:58:40
+Query: select us.rol, rm.id_menu, um.menu, um.submenu, um.url, um.orden, us.nombre_usuario 
+		from usuarios us 
+		inner join roles_menu rm on us.rol = rm.id_rol 
+		inner join menus um on um.id_menu = rm.id_menu where um.estado = 1 and md5(us.id_usuario) = 'c4ca4238a0b923820dcc509a6f75849b' order by orden
+Error: 
+---------------------------------------------------
+2019-04-16 14:58:40
+Query: SELECT titulo from menus where url like '%inicio.php'
+Error: 
+---------------------------------------------------
+2019-04-16 14:58:40
+Query: SELECT nombre_sistema FROM configuracion
+Error: 
+---------------------------------------------------

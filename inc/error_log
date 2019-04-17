@@ -1,0 +1,13 @@
+[07-Nov-2018 13:57:37 America/Asuncion] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 80 bytes) in /home/namandu/public_html/jdm/inc/mysql.php on line 82
+[07-Nov-2018 13:57:45 America/Asuncion] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262171 bytes) in /home/namandu/public_html/jdm/inc/reporte-ventas-data.php on line 44
+[07-Nov-2018 13:57:54 America/Asuncion] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2883611 bytes) in /home/namandu/public_html/jdm/inc/reporte-ventas-data.php on line 44
+[12-Nov-2018 19:53:53 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[11-Dec-2018 10:59:59 America/Asuncion] PHP Fatal error:  Call to a member function clearText() on null in /home/namandu/public_html/jdm/inc/adm-facturas-data-cr.php on line 143
+[11-Dec-2018 11:00:18 America/Asuncion] PHP Fatal error:  Call to a member function clearText() on null in /home/namandu/public_html/jdm/inc/adm-facturas-data-cr.php on line 143
+[11-Dec-2018 11:00:31 America/Asuncion] PHP Fatal error:  Call to a member function clearText() on null in /home/namandu/public_html/jdm/inc/adm-facturas-data-cr.php on line 143
+[11-Dec-2018 11:00:37 America/Asuncion] PHP Fatal error:  Call to a member function clearText() on null in /home/namandu/public_html/jdm/inc/adm-facturas-data-cr.php on line 143
+[11-Dec-2018 11:01:32 America/Asuncion] PHP Fatal error:  Call to a member function clearText() on null in /home/namandu/public_html/jdm/inc/adm-facturas-data-cr.php on line 143
+[11-Dec-2018 11:08:44 America/Asuncion] PHP Fatal error:  Call to a member function clearText() on null in /home/namandu/public_html/jdm/inc/adm-facturas-data-cr.php on line 143
+[11-Dec-2018 11:09:06 America/Asuncion] PHP Fatal error:  Call to a member function clearText() on null in /home/namandu/public_html/jdm/inc/adm-facturas-data-cr.php on line 143
+[28-Dec-2018 10:47:18 America/Asuncion] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81 bytes) in /home/namandu/public_html/jdm/inc/mysql.php on line 82
+[28-Dec-2018 10:48:36 America/Asuncion] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1835078 bytes) in /home/namandu/public_html/jdm/inc/reporte-ventas-data.php on line 44

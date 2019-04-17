@@ -1,0 +1,362 @@
+/*FUENTES*/
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(../fonts/lato-regular-ext.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(../fonts/lato-regular.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(../fonts/lato-bold-ext.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(../fonts/lato-bold.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(../fonts/lato-italic-ext.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(../fonts/lato-italic.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+html,
+body {
+  height: 100%;
+  font-family:Lato,tahoma,sans-serif;
+  font-size:13px;
+
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -40px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+.navbar-nav > li > a {
+    padding-top:12px !important; 
+    padding-bottom:0 !important;
+    height: 48px;
+}
+.navbar {min-height:48px !important;}
+
+.page-header{
+	margin-top:60px;
+	margin-bottom:15px;
+	padding-bottom:5px
+}
+
+.navbar-brand{
+	margin:0;
+	padding:0;
+    height: 48px;
+}
+
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 40px;
+  background-color: #2c3e50;
+}
+
+.container {
+  width: auto;
+}
+
+.container .text-muted {
+  margin: 10px auto 0 auto;
+  text-align:center
+}
+
+.search > .form-control{
+	height:40px;
+}
+
+.form-inline > .form-group > .btn{
+	height:40px;
+}
+
+.theme-dropdown .dropdown-menu {
+  display: block;
+  position: static;
+  margin-bottom: 20px;
+}
+
+
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+	font-size:20pt;
+	font-weight: bold;
+}
+
+h3{
+	margin-top: 0;
+    margin-bottom: 0;
+	font-size:16pt;
+	font-weight: bold;
+}
+ 
+.modal-lg {
+    width: 80%;
+}
+
+.modal-lg-2 {
+    width: 95%;
+}
+
+.modal-md {
+    width: 55%;
+}
+
+.modal-sm2 {
+    width: 28%;
+}
+
+.modal-title{
+	font-weight: Bold;
+}
+
+.modal-header {
+	padding: 5px 10px 5px 10px;
+}
+
+.widget {
+    border-radius: 3px;
+    color: #fff;
+    margin-bottom: 20px;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.widget-stats .stats-icon {
+    color: #fff;
+    font-size: 42px;
+    height: 56px;
+    line-height: 56px;
+    margin-left: 15px;
+    opacity: 0.2;
+    position: absolute;
+    right: 35px;
+    text-align: center;
+    top: 30px;
+    width: 56px;
+}
+
+.widget-stats .stats-link p{
+    color: #fff;
+    font-size: 11px;
+    margin: 5px 0 0 0;
+	cursor:pointer
+}
+
+.widget-stats .stats-info h4 {
+    color: #fff;
+    font-size: 12px;
+    margin: 5px 0;
+}
+
+.widget-stats .stats-info p {
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.bg-green {
+    background: #00acac none repeat scroll 0 0 !important;
+}
+
+.bg-blue {
+    background: #348fe2 none repeat scroll 0 0 !important;
+}
+
+.bg-purple {
+    background: #727cb6 none repeat scroll 0 0 !important;
+}
+
+.bg-red {
+    background: #ff5b57 none repeat scroll 0 0 !important;
+}
+
+.bootstrap-table .table {
+	font-size:12.5px 
+}
+
+.table-condensed > thead > tr > th,
+.table-condensed > tbody > tr > th,
+.table-condensed > tfoot > tr > th,
+.table-condensed > thead > tr > td,
+.table-condensed > tbody > tr > td,
+.table-condensed > tfoot > tr > td {
+  padding: 2px 4px 2px 4px;
+}
+
+.table-hover > tbody > tr:hover {
+  background-color: #13957b;
+  color: white;
+  
+}
+
+.fixed-table-container tbody .selected td {
+    background-color: #2580da;
+	color: white;
+}
+
+/*.bootstrap-table .table thead > tr > th {
+	background-color: #e8e8e8;
+	color:black;
+}*/
+
+.fixed-table-container thead th .both {
+	background-image: url('../images/sort-both.png');
+}
+.fixed-table-container thead th  {
+	background-color:#dde3e3;
+}
+	
+.fixed-table-footer{
+	font-size:18px;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+#tabla td + td, #tabla th + th {
+	text-align: right;
+}
+table.scrollable thead tr, table.scrollable tfoot tr  {
+	position: relative;
+	display: block
+}
+
+/*.fixed-table-container thead th .th-inner {
+    text-align: center;
+	padding: 8px;
+}
+
+.fixed-table-container tbody td .th-inner {
+}*/
+
+.table > tbody > tr.info > td, .table > tbody > tr.info > th, .table > tbody > tr > td.info, .table > tbody > tr > th.info, .table > tfoot > tr.info > td, .table > tfoot > tr.info > th, .table > tfoot > tr > td.info, .table > tfoot > tr > th.info, .table > thead > tr.info > td, .table > thead > tr.info > th, .table > thead > tr > td.info, .table > thead > tr > th.info {
+    background-color: #416070;
+	color:white;
+}
+
+
+.editable-input {
+    width: 100px; /* bootstrap-responsive has width: 100% that breakes layout */
+}
+
+.alert {
+    margin-bottom: 5px;
+}
+
+.modal {
+  text-align: center;
+  padding: 0!important;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.editable-click, a.editable-click {
+  all: initial;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+a.editable-click:hover {
+	all: initial;
+	font-family: inherit;
+    font-size: inherit;
+	color: white;
+}
+
+.p_info{
+	font-size:16px;
+	font-weight:bold;
+}
+
+.modal-footer{
+	text-align:left;
+}
+
+h4{
+	margin-top:0;
+}
+
+.table-condensed-sm .groupBy td{
+	height:25px !important;	
+	padding:0 !important;
+	font-size:13px !important;
+	vertical-align: middle;
+}
+
+.table-condensed-sm thead th .th-inner{
+	line-height:10px !important;
+	font-size:11px !important;
+	letter-spacing:-1px !important!;
+	padding-right:20px;
+	border-right:1px solid #b4bfc0;
+}
+
+.table-condensed-sm tbody td{
+	font-size:12px !important;
+	line-height:13px !important;
+	letter-spacing:-1px !important!;
+	padding:8px 4px 8px 4px !important;
+	margin:0;
+	border-right:1px solid #d5dbdb !important;
+}
